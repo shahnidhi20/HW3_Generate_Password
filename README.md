@@ -2,7 +2,7 @@
 
    <p align="center">
      <a href="https://shahnidhi20.github.io/HW3_Generate_Password/">
-       <img src="./passgen_demo.png" alt="Logo" width="430" height="500">
+       <img src="./passgen_demo.png" alt="Logo" width="1200" height="500">
      </a>
    </p>
 
